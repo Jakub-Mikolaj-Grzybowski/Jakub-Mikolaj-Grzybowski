@@ -41,6 +41,14 @@
 
 ###
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jakub-Mikolaj-Grzybowski.Jakub-Mikolaj-Grzybowski&"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Jakub-Mikolaj-Grzybowski/Jakub-Mikolaj-Grzybowski/output/snake.svg" alt="Snake animation" />
