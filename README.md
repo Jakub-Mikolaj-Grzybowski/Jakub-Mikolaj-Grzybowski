@@ -32,21 +32,16 @@
 
   <br><br>
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jakub-Mikolaj-Grzybowski&show_icons=true&theme=radical&locale=en&hide_border=true" alt="stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jakub-Mikolaj-Grzybowski&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="languages" />\
-        <img src="https://streak-stats.demolab.com?user=Jakub-Mikolaj-Grzybowski&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jakub-Mikolaj-Grzybowski&show_icons=true&theme=radical&locale=en&hide_border=true" height="170" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jakub-Mikolaj-Grzybowski&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" height="170" alt="languages" />
+  </p>
 
-  <img src="https://streak-stats.demolab.com?user=Jakub-Mikolaj-Grzybowski&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Jakub-Mikolaj-Grzybowski&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </p>
 
-  <br><br>
+  <br>
 
   <h3>📫 Connect with me</h3>
   <p>
